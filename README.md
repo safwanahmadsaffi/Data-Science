@@ -1,5 +1,4 @@
 # Data Analysis and Machine Learning Repository
-
 This repository contains a collection of materials for learning data analysis and machine learning. The resources are organized into the following sections:
 
 ## Table of Contents
